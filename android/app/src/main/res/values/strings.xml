@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="widget_solo">Solo</string>
+    <string name="widget_solo_description">Your most urgent agent session.</string>
+    <string name="widget_team">Team</string>
+    <string name="widget_team_description">Up to four agents at a glance.</string>
+    <string name="widget_list">List</string>
+    <string name="widget_list_description">Your agent sessions and what they are doing.</string>
+</resources>
